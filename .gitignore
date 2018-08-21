@@ -1,0 +1,10 @@
+.vs/UiPrime/v15/Server/sqlite3/db.lock
+.vs/UiPrime/v15/Server/sqlite3/storage.ide
+.vs/UiPrime/v15/Server/sqlite3/storage.ide-shm
+.vs/UiPrime/v15/Server/sqlite3/storage.ide-wal
+UiPrime.SAP/obj/Debug/
+UiPrime.SAP/bin/Release/
+UiPrime.SQLite/obj/Release/
+.vs/
+UiPrime.SAP/obj/Release/
+UiPrime.Core/obj/
