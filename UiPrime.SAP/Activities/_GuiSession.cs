@@ -7,6 +7,7 @@ using UiPrime.SAPCore;
 // Authors: Thiago Minhaqui Oechsler / Robson Fernando da Veiga
 // UiPrime Hackathon Team 
 // Created on 12th August 2018
+// This code is free. Check LICENSE.txt for MIT Open Source License terms.
 namespace UiPrime.SAP.Administrative_Objects
 {
     [Description("Returns a GuiSession object for the oldest running SAP Session")]

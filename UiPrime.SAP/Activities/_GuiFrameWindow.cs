@@ -7,9 +7,10 @@ using sapfewse;
 // Authors: Thiago Minhaqui Oechsler / Robson Fernando da Veiga
 // UiPrime Hackathon Team 
 // Created on 12th August 2018
+// This code is free. Check LICENSE.txt for MIT Open Source License terms.
 namespace UiPrime.SAP.Visual_Container_Objects.GuiFrameWindow
 {
-    [Description("Emulates send virtual key to the window. The Vkeys are defined in the menu painter.")]
+    [Description("Emulates sending a virtual key to the window. The Vkeys are defined in the menu painter.")]
     public sealed class SendVKey : CodeActivity
 	{
         [OverloadGroup("ComponentId")]

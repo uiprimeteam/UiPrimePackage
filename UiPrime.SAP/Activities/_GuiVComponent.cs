@@ -8,6 +8,7 @@ using sapfewse;
 // Authors: Thiago Minhaqui Oechsler / Robson Fernando da Veiga
 // UiPrime Hackathon Team 
 // Created on 12th August 2018
+// This code is free. Check LICENSE.txt for MIT Open Source License terms.
 namespace UiPrime.SAP.Visual_Objects.Component
 {
     [Description("Sets the focus in the specified component.\nUse this activity for all available Gui controls in SAP.")]
@@ -34,7 +35,7 @@ namespace UiPrime.SAP.Visual_Objects.Component
     }
 
     [Description("Sets a text value in the specified component.\nUse this activity for all available Gui controls in SAP.")]
-    public sealed class SetText<SourceType,TargetType> :  CodeActivity
+    public sealed class SetText :  CodeActivity
 	{
         [OverloadGroup("ComponentId")]
         [RequiredArgument, Category("Target")]

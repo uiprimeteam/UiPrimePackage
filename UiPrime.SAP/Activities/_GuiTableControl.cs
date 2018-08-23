@@ -8,6 +8,7 @@ using SAPGui = UiPrime.SAPCore.SAPGui;
 // Authors: Thiago Minhaqui Oechsler / Robson Fernando da Veiga
 // UiPrime Hackathon Team 
 // Created on 12th August 2018
+// This code is free. Check LICENSE.txt for MIT Open Source License terms.
 namespace UiPrime.SAP.Visual_Objects.GuiTableControl
 {
 

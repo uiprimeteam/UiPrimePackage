@@ -14,6 +14,7 @@ using System.Text.RegularExpressions;
 // Authors: Thiago Minhaqui Oechsler / Robson Fernando da Veiga
 // UiPrime Hackathon Team 
 // Created on 12th August 2018
+// This code is free. Check LICENSE.txt for MIT Open Source License terms.
 namespace UiPrime.SAPCore
 {
     /// <summary>
