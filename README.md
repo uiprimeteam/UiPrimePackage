@@ -1,9 +1,9 @@
 # UiPrime SAP Activities Package
-
-Developed by:
-Robson Fernando da Veiga - https://www.linkedin.com/in/robsonfveiga/
-Thiago Minhaqui Oechsler - https://www.linkedin.com/in/thiago-minhaqui-oechsler-99929917/
-
+  
+Developed by:  
+Robson Fernando da Veiga - https://www.linkedin.com/in/robsonfveiga/  
+Thiago Minhaqui Oechsler - https://www.linkedin.com/in/thiago-minhaqui-oechsler-99929917/  
+  
 Activities designed for automating SAP system, by encapsulating script actions into UiPath activities through DLL interface provided by SAP. (Requires script to be enabled in SAP)
 
 It is known that you can automate SAP using just standard UiPath activities, however this package allows access to a bunch of SAP components and methods that are not accessible otherwise.
