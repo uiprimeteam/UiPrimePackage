@@ -13,4 +13,5 @@ However, we recommend you to use the freeware Scripting Tracker below to record 
 https://tracker.stschnell.de/
 
 We also recommend you to use the Official SAP Documentation found in the link below, to understand the structure and events of each SAP component available:
+https://github.com/uiprimeteam/UiPrimePackage/blob/master/Documentation/SAP%20Gui%20Components%20Guide.pdf
 
