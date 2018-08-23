@@ -26,3 +26,9 @@ https://tracker.stschnell.de/
 
 We also recommend you to use the Official SAP Documentation found in the link below, to understand the structure and events of each SAP component available:
 https://github.com/uiprimeteam/UiPrimePackage/blob/master/Documentation/SAP%20Gui%20Components%20Guide.pdf
+
+
+SAP and other SAP products and services mentioned herein as well as their respective logos are trademarks or registered trademarks of SAP SE (or an SAP affiliate company) in Germany and other countries. 
+All other product and service names mentioned are the trademarks of their respective companies. 
+Please see http://www.sap.com/trademark for additional trademark information and notices.
+
